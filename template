@@ -1,4 +1,3 @@
-```
 Ledger License
 
 The project "<ProjectName>" is licensed by the Ledger License.
@@ -13,4 +12,4 @@ curl -X POST "<ProjectLedgerURL>" \
     "public_key": "YOUR_PUBLIC_KEY_HERE"
   }'
 ```
-```
+
