@@ -6,11 +6,11 @@ The project "<ProjectName>" is licensed by the Ledger License.
 All published projects derived from this project will sign this project's ledger by 
 curling a public key that is publically associated with the derived project.
 
-\`\`\`bash
+```bash
 curl -X POST "<ProjectLedgerURL>" \
   -H "Content-Type: application/json" \
   -d '{
     "public_key": "YOUR_PUBLIC_KEY_HERE"
   }'
-\`\`\`
+```
 ```
